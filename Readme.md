@@ -1,3 +1,4 @@
+hi there!
 # mysql
 
 [![NPM Version][npm-version-image]][npm-url]
